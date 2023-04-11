@@ -1,0 +1,20 @@
+{
+  "name": "sof3/webconsole-api",
+  "type": "provided",
+  "require": {
+    "sof3/await-generator": "dev-safe-race",
+    "pocketmine/pocketmine-mp": "^4.13.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  },
+  "authors": [
+    {
+      "name": "SOFe",
+      "email": "sofe2038@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0"
+}
